@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/rizkiramadhan4617"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Michel-176/Aguz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MICHEL R-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA/badge/main"></A>
@@ -46,7 +46,7 @@
 
 ### SETTING:
 Change owner
-[ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
+[ownerNumber](https://github.com/Michel-176/Aguz/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
 
 ## JOIN THE GROUP <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
