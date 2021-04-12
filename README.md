@@ -1,5 +1,5 @@
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai Stah Gw Misel
 ## نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَلْ لَا يَشْعُرُونَ
 
 ## Kami bersegera memberikan kebaikan-kebaikan kepada mereka? Tidak, sebenarnya mereka tidak sadar {1008}.
@@ -59,4 +59,5 @@ Change owner
 - [@itsmeiky](https://github.com/ItsmeikyXSec4O4/ShizukaBOT)
 - [@MhankBarBar](https://github.com/MhankBarBar)
 - [@Michel-176](https://github.com/Michel-176/Aguz) 
+- [@Aguz](
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
