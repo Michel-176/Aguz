@@ -7,7 +7,7 @@
 ## Q.S Al Mu'minun ayat 56
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rizkiramadhan4617/ALFIRAA/main/Rizki/IMG_20210313_072643.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/rizkiramadhan4617/ALFIRAA/main/Rizki/https://raw.githubusercontent.com/rizkiramadhan4617/ALFIRAA/main/Rizki/IMG-20210228-WA0056.jpg" width="230" height="230"/>
 </p>
 <br>
 <p align="center">
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=misel" />
 
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
 
