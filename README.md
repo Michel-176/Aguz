@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/Michel-176/Aguz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MICHEL R-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Michel-176/Aguz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MICHEL K-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA/badge/main"></A>
@@ -57,6 +57,5 @@ Change owner
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
 - [@itsmeiky](https://github.com/ItsmeikyXSec4O4/ShizukaBOT)
 - [@MhankBarBar](https://github.com/MhankBarBar)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
 - [@Michel-176](https://github.com/Michel-176/Aguz) 
-  
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
